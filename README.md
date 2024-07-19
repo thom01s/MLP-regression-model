@@ -16,8 +16,6 @@ matplotlib
 
 Thomas Sponchiado Pastore – [@ThomasSPastore](https://twitter.com/ThomasSPastore) – thomas.spastore@gmail.com
 
-Distributed under the MIT license. See ``LICENSE`` for more information.
-
 [https://github.com/thom01s](https://github.com/thom01s?tab=repositories/)
 
 ## Contributing
